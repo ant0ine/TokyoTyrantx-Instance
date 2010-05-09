@@ -1,0 +1,12 @@
+.cvsignore
+Build.PL
+Changes
+lib/TokyoTyrantx/Instance.pm
+MANIFEST
+README
+t/00-load.t
+t/01-instance.t
+t/pod-coverage.t
+t/pod.t
+Makefile.PL
+META.yml
